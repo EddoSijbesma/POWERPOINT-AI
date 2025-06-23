@@ -1,0 +1,6 @@
+streamlit
+openai
+python-pptx
+requests
+pillow
+comtypes; platform_system == "Windows"
